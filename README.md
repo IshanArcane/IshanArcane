@@ -1,18 +1,100 @@
-# 💫 About Me:
-🔭 I’m currently working on building intelligent full-stack applications using Spring Boot and AI-powered features<br><br>👯 I’m looking to collaborate on innovative web apps, open-source Java/Spring Boot projects, and AI integrations<br><br>🤝 I’m looking for help with deepening my skills in cloud deployments and advanced data visualization<br><br>🌱 I’m currently learning advanced Java backend development, microservices, and Docker/Kubernetes<br><br>💬 Ask me about Spring Boot, Java, OCR, or building scalable backend systems<br><br>⚡ Fun fact I love turning complex ideas into clean, practical code, and I’m a huge fan of minimalist design in tech!
+ Profile README for: Ishan Mamidpalliwar (@IshanArcane) 
+ Create a public repo named exactly "IshanArcane" and put this file at the root as README.md 
+
+<div align="center">
+
+   Animated intro 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=28&duration=3500&pause=700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Ishan+Mamidpalliwar;Building+reliable%2C+human‑centered+software"
+    alt="Animated typing introduction for Ishan Mamidpalliwar"
+  />
+
+   Badges (adjust or remove as needed) 
+  <a href="https://github.com/IshanArcane">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IshanArcane?style=flat&color=0ea5e9">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=IshanArcane&color=0ea5e9&style=flat" />
+  
+  <br /><br />
+
+   Compact one‑liner 
+  <p><strong>Focus:</strong> simple, accessible interfaces; pragmatic performance; maintainable systems.</p>
+</div>
+
+---
+
+### GitHub Stats
+
+ Using a cohesive dark style with subtle neon accent; borders hidden for a clean card look 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=IshanArcane&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true"
+    alt="GitHub stats for IshanArcane"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanArcane&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320"
+    alt="Top languages for IshanArcane"
+    height="160"
+  />
+</p>
+
+ Contribution streak with a different renderer for visual variety 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=IshanArcane&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub streak for IshanArcane"
+    height="180"
+  />
+</p>
+
+ Activity graph for a dashboard feel 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IshanArcane&theme=tokyo-night&hide_border=true&radius=8&area=true"
+    alt="Contribution activity graph for IshanArcane"
+  />
+</p>
+
+---
+
+### Featured Work
+ Replace the placeholders below with your key repos 
+- Clear, maintainable engineering focused on real user needs.
+- Highlights:
+  - Repo: [project-one](https://github.com/IshanArcane/project-one) — concise description
+  - Repo: [project-two](https://github.com/IshanArcane/project-two) — concise description
+
+---
+
+### Toolbox
+ Edit to match your stack 
+- Languages: TypeScript, Python
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, FastAPI, Postgres
+- Infra: Docker, GitHub Actions
+
+---
+
+### Connect
+- GitHub: https://github.com/IshanArcane
+ Optional: add your links, then remove this comment
+- Website: https://your-domain.com
+- LinkedIn: https://www.linkedin.com/in/your-handle
+- Email: your-email@example.com
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/endoveil/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishan-mamidpalliwar-97a63225b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamidpalliwarishan@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IshanArcane&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IshanArcane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanArcane&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Contribution Snake (animated)
+ After adding the workflow below, this will render the latest snake SVG 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/IshanArcane/IshanArcane/output/snake.svg"
+    alt="Animated contribution snake for IshanArcane"
+  />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IshanArcane&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Notes:
+- If any image fails to load (rate limits), refresh later; these services cache and recover.
+- You can switch theme=tokyonight to radical, algolia, onedark, etc. for a different vibe.
